@@ -9,4 +9,4 @@ It is expected that simulator can perform following:
 - read program, and for each gate:
   - calculate matrix operator
   - apply operator (modify state)
-  - perform multi-shot measurement of all qubits using weighted random technique
+- perform multi-shot measurement of all qubits using weighted random technique
