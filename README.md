@@ -5,8 +5,8 @@ Learning by doing: the best way to understand the basics of quantum computation 
 Detailed description of the task with some learning resources and examples can be found in this jupyter notebook
 
 It is expected that simulator can perform following:
-initialize state
-read program, and for each gate:
-calculate matrix operator
-apply operator (modify state)
-perform multi-shot measurement of all qubits using weighted random technique
+- initialize state
+- read program, and for each gate:
+- calculate matrix operator
+- apply operator (modify state)
+- perform multi-shot measurement of all qubits using weighted random technique
