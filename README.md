@@ -7,6 +7,6 @@ Detailed description of the task with some learning resources and examples can b
 It is expected that simulator can perform following:
 - initialize state
 - read program, and for each gate:
-- calculate matrix operator
-- apply operator (modify state)
-- perform multi-shot measurement of all qubits using weighted random technique
+  - calculate matrix operator
+  - apply operator (modify state)
+  - perform multi-shot measurement of all qubits using weighted random technique
